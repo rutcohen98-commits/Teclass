@@ -25,3 +25,14 @@ System generates code
 Students join using code
 ↓
 Lecture starts
+
+## Permissions
+
+Lecturer:
+- Create lecture
+- Start lecture
+- End lecture
+
+Student:
+- Join lecture using code
+- View lecture content
